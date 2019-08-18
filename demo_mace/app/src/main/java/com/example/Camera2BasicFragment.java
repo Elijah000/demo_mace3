@@ -365,7 +365,7 @@ public class Camera2BasicFragment extends Fragment
                 Switch = 1 ;
                 // 按下之後會執行的程式碼
                 // 宣告執行緒
-                testbutton.setText("Updatingsssssss");
+                testbutton.setText("Updatingsssssssssss");
                 Thread thread = new Thread(mutiThread);
                 thread.start(); // 開始執行
             }
