@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\user\\StudioProjects\\demo_mace3\\demo_mace\\openCVLibrary341\\java\\src\\org\\opencv\\engine\\OpenCVEngineInterface.aidl
+ * Original file: /Users/hongweishiang/AndroidStudioProjects/demo_mace3/demo_mace/openCVLibrary341/java/src/org/opencv/engine/OpenCVEngineInterface.aidl
  */
 package org.opencv.engine;
 /**

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\user\\StudioProjects\\demo_mace3\\demo_mace\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "outputFile": "/Users/hongweishiang/AndroidStudioProjects/demo_mace3/demo_mace/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\99b66246884051197b10872ad7b3d960\\res\\values-v17\\values-v17.xml",
+                    "source": "/Users/hongweishiang/.gradle/caches/transforms-2/files-2.1/4cedc717b253a77447920ed4738eab3a/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
