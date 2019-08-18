@@ -393,7 +393,7 @@ public class Camera2BasicFragment extends Fragment
     }
     private void turnoff(){
         Switch = 0;
-        testbutton.setText("Stop Updatingsssssss123111111");
+        testbutton.setText("Stop Updatingsssssss123111111sss");
     }
     /*
     private void cycle(){
