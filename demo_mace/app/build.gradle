@@ -1,0 +1,89 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "28.0.3"
+    defaultConfig {
+        applicationId "android.example"
+        minSdkVersion 21
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+
+        externalNativeBuild {
+            cmake {
+                //arguments  '-DANDROID_TOOLCHAIN=clang', '-DANDROID_STL=gnustl_static'
+                //     cppFlags "-std=c++11","-frtti", "-fexceptions"
+                arguments '-DBUILD_TESTING=OFF', '-DANDROID_STL=gnustl_static'
+                //, '-DANDROID_TOOLCHAIN=gcc'
+                cppFlags "-std=c++11", "-frtti", "-fexceptions", "-fopenmp"
+                abiFilters "armeabi-v7a"
+            }
+        }
+        ndk {
+            abiFilters 'armeabi-v7a', 'x86'
+        }
+    }
+    externalNativeBuild {
+        cmake {
+            path "CMakeLists.txt"
+        }
+//        ndkBuild {
+//            path 'src/main/jni/Android.mk'
+//        }
+    }
+    lintOptions {
+        abortOnError false
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    aaptOptions {
+        noCompress "tflite"
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+            assets.srcDirs = ['src/main/assets', 'src/main/assets/']
+        }
+    }
+}
+
+repositories {
+    maven {
+        url 'https://google.bintray.com/tensorflow'
+    }
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    api fileTree(dir: 'libs', include: ['*.jar'])
+    api(name: 'tensorflow-lite', ext: 'aar')
+    api('org.tensorflow:tensorflow-lite:+')
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    api 'com.android.support:appcompat-v7:25.2.0'
+    api 'com.android.support.constraint:constraint-layout:1.0.2'
+    api 'com.android.support:design:25.2.0'
+    api 'com.android.support:support-annotations:25.3.1'
+    api 'com.android.support:support-v13:25.2.0'
+
+    api project(':openCVLibrary341')
+//    compile 'org.tensorflow:tensorflow-lite:+'
+    api project(':macelibrary')
+    testImplementation 'junit:junit:4.12'
+}
