@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:18:1-46:12
+MERGED from [:tensorflow-lite:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\084c19b506f9af709128168e05d964e0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:design:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8cc1b78bcb3bcd70f44386cce58cef07\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\99b66246884051197b10872ad7b3d960\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d69682bfd1065b1376ab119ef3b590bc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f28a0c2e758d8626871c69b4236f8d23\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0d2ed4804ee9a4bc92664d45abc11ace\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\60cfa4647b1d4707f6cf460133316b87\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d472e3d3cef392f49a1af3643e541262\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\db508dd860798bab6d13cecd19cdc99f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0828cedecd281a2e8f516f7bf6790ee1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e66ed784193c82b50f2eab0a9aa6d703\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bdf47560505e45da57f8ceb67baf16e3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\52068aa6b985e0b548b27043d81d37f9\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\3c79557e35074c437e93e6c2306e947f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6ab190b6f3859c62d2a8f982f06bc723\AndroidManifest.xml:17:1-27:12
+MERGED from [:openCVLibrary341] C:\Users\user\StudioProjects\demo_mace3\demo_mace\openCVLibrary341\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:macelibrary] C:\Users\user\StudioProjects\demo_mace3\demo_mace\macelibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:18:1-46:12
+	package
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:19:11-32
+		INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:18:1-46:12
+		INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:18:1-46:12
+		INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:21:5-64
+	android:name
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:21:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:22:22-64
+uses-feature#android.hardware.camera
+ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:23:5-59
+	android:name
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:24:5-69
+	android:name
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:24:19-67
+application
+ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:28:5-44:19
+MERGED from [:tensorflow-lite:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\084c19b506f9af709128168e05d964e0\AndroidManifest.xml:4:5-5:19
+MERGED from [:tensorflow-lite:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\084c19b506f9af709128168e05d964e0\AndroidManifest.xml:4:5-5:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8cc1b78bcb3bcd70f44386cce58cef07\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8cc1b78bcb3bcd70f44386cce58cef07\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\99b66246884051197b10872ad7b3d960\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\99b66246884051197b10872ad7b3d960\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d69682bfd1065b1376ab119ef3b590bc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d69682bfd1065b1376ab119ef3b590bc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f28a0c2e758d8626871c69b4236f8d23\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f28a0c2e758d8626871c69b4236f8d23\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0d2ed4804ee9a4bc92664d45abc11ace\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0d2ed4804ee9a4bc92664d45abc11ace\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\60cfa4647b1d4707f6cf460133316b87\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\60cfa4647b1d4707f6cf460133316b87\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\db508dd860798bab6d13cecd19cdc99f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\db508dd860798bab6d13cecd19cdc99f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0828cedecd281a2e8f516f7bf6790ee1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0828cedecd281a2e8f516f7bf6790ee1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e66ed784193c82b50f2eab0a9aa6d703\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e66ed784193c82b50f2eab0a9aa6d703\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bdf47560505e45da57f8ceb67baf16e3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bdf47560505e45da57f8ceb67baf16e3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\52068aa6b985e0b548b27043d81d37f9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\52068aa6b985e0b548b27043d81d37f9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\3c79557e35074c437e93e6c2306e947f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\3c79557e35074c437e93e6c2306e947f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6ab190b6f3859c62d2a8f982f06bc723\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6ab190b6f3859c62d2a8f982f06bc723\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:31:9-41
+	android:icon
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:33:9-45
+	android:usesCleartextTraffic
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:32:9-44
+activity#com.example.CameraActivity
+ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:35:9-43:20
+	android:screenOrientation
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:36:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:40:17-68
+	android:name
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:41:27-74
+uses-sdk
+INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8cc1b78bcb3bcd70f44386cce58cef07\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8cc1b78bcb3bcd70f44386cce58cef07\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\99b66246884051197b10872ad7b3d960\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\99b66246884051197b10872ad7b3d960\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d69682bfd1065b1376ab119ef3b590bc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d69682bfd1065b1376ab119ef3b590bc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f28a0c2e758d8626871c69b4236f8d23\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f28a0c2e758d8626871c69b4236f8d23\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0d2ed4804ee9a4bc92664d45abc11ace\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0d2ed4804ee9a4bc92664d45abc11ace\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\60cfa4647b1d4707f6cf460133316b87\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\60cfa4647b1d4707f6cf460133316b87\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d472e3d3cef392f49a1af3643e541262\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\d472e3d3cef392f49a1af3643e541262\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\db508dd860798bab6d13cecd19cdc99f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\db508dd860798bab6d13cecd19cdc99f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0828cedecd281a2e8f516f7bf6790ee1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0828cedecd281a2e8f516f7bf6790ee1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e66ed784193c82b50f2eab0a9aa6d703\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e66ed784193c82b50f2eab0a9aa6d703\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bdf47560505e45da57f8ceb67baf16e3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bdf47560505e45da57f8ceb67baf16e3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\52068aa6b985e0b548b27043d81d37f9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\52068aa6b985e0b548b27043d81d37f9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\3c79557e35074c437e93e6c2306e947f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\3c79557e35074c437e93e6c2306e947f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6ab190b6f3859c62d2a8f982f06bc723\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6ab190b6f3859c62d2a8f982f06bc723\AndroidManifest.xml:21:5-23:58
+MERGED from [:openCVLibrary341] C:\Users\user\StudioProjects\demo_mace3\demo_mace\openCVLibrary341\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary341] C:\Users\user\StudioProjects\demo_mace3\demo_mace\openCVLibrary341\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:macelibrary] C:\Users\user\StudioProjects\demo_mace3\demo_mace\macelibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:macelibrary] C:\Users\user\StudioProjects\demo_mace3\demo_mace\macelibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8cc1b78bcb3bcd70f44386cce58cef07\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:18:1-46:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:18:1-46:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\user\StudioProjects\demo_mace3\demo_mace\app\src\main\AndroidManifest.xml:18:1-46:12 reason: org.tensorflow.lite requested WRITE_EXTERNAL_STORAGE
